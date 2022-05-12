@@ -1,0 +1,36 @@
+/*
+primary: #383e56
+secondary: #f69e7b
+light: #eedad1
+info: #dab5b0
+*/
+.bg-primary {
+    background-color: #383e56;
+}
+.bg-secondary {
+    background-color: #f69e7b;
+}
+.bg-info {
+    background-color: #eedad1;
+}
+.text-primary {
+    color: #383e56;
+}
+.text-light {
+    color: #eedad1;
+}
+.text-secondary {
+    color: #f69e7b;
+}
+.text-white {
+    color: #ffffff;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.width-100 {
+    width: 100px;
+}
